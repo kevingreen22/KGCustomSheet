@@ -1,5 +1,5 @@
 <!-- Badges -->
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)[![Platform](https://img.shields.io/cocoapods/p/FloatingLabelTextFieldSwiftUI.svg?style=flat)](https://cocoapods.org/pods/FloatingLabelTextFieldSwiftUI)[![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) [![Platform](https://img.shields.io/cocoapods/p/FloatingLabelTextFieldSwiftUI.svg?style=flat)](https://cocoapods.org/pods/FloatingLabelTextFieldSwiftUI) [![Swift Package Manager](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
 
 # KGCustomSheet
 
@@ -16,7 +16,7 @@ If you like the project, please do not forget to `star ★` this repository and 
 
 ## Screenshots
 
-![App Screenshot](https:github.com/kevingreen22/KGCustomSheet/tree/main/KGCustomSheet_example.gif)
+![App Screenshot](https://github.com/kevingreen22/KGCustomSheet/blob/main/resources/KGCustomSheet_example.gif)
 
 ## Installation 
 
