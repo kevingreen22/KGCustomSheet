@@ -16,7 +16,7 @@ If you like the project, please do not forget to `star ★` this repository and 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https:github.com/kevingreen22/KGCustomSheet/tree/main/KGCustomSheet_example.gif)
 
 ## Installation 
 
